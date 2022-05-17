@@ -6,3 +6,5 @@ learn java with me
 ---
 2.Variable (basic use)
 ---
+3.Taking input
+---
