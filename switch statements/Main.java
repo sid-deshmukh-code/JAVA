@@ -3,9 +3,9 @@ import java.util.Scanner;
 class Main {
     public static void main(String[] args) {
         System.out.println("Using switch statements");
-        Scanner sc = new Scanner(System.in);
+        Scanner s = new Scanner(System.in);
         System.out.println("Enter an integer: ");
-        int day = sc.nextInt();
+        int day = s.nextInt();
         
         
 
